@@ -55,7 +55,13 @@
 ## - Portifólio
 
 ###
- - [Autocad](https://github.com/gustavomirabalczarnotta/autocad)
+ -> [estudos_rocketseat](https://github.com/Gustavomirabal/estudos_rocketseat)
+ </br>
+ -> [Resed](https://github.com/Gustavomirabal/resed)
+  </br>
+ -> [blog-codeigniter](https://github.com/Gustavomirabal/blog-codeigniter)
+  </br>
+ -> [ominitrix](https://github.com/Gustavomirabal/ominitrix)
 
 ## - 🌐 redes sociais
 
