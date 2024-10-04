@@ -43,8 +43,32 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gustavomirabal/Gustavomirabal/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gustavomirabal/Gustavomirabal/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gustavomirabal/Gustavomirabal/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <a href="https://github.com/Gustavomirabal/gustavomirabal" target="_blank">
+    <img src="https://img.shields.io/github/forks/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project forks"/>
+  </a>
+
+  <a href="https://github.com/maurodesouza/profile-readme-generator/stargazers" target="_blank">
+    <img src="https://img.shields.io/github/stars/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project stars"/>
+  </a>
+
+  <a href="https://github.com/maurodesouza/profile-readme-generator/commits/main" target="_blank">
+    <img src="https://img.shields.io/github/commit-activity/m/maurodesouza/profile-readme-generator?" alt="Badge showing average commit frequency per month"/>
+  </a>
+
+  <a href="https://github.com/maurodesouza/profile-readme-generator/commits/main" target="_blank">
+    <img src="https://img.shields.io/github/last-commit/maurodesouza/profile-readme-generator?" alt="Badge showing when the last commit was made"/>
+  </a>
+
+  <a href="https://github.com/maurodesouza/profile-readme-generator/issues" target="_blank">
+    <img src="https://img.shields.io/github/issues/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project issues"/>
+  </a>
+
+  <a href="https://github.com/maurodesouza/profile-readme-generator/pulls" target="_blank">
+    <img src="https://img.shields.io/github/issues-pr/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project pull-requests"/>
+  </a>
+
+  <a href="https://github.com/maurodesouza/profile-readme-generator/blob/master/LICENSE.md" target="_blank">
+    <img alt="Badge showing project license type" src="https://img.shields.io/github/license/maurodesouza/profile-readme-generator?color=f85149">
+  </a>
+</p>
